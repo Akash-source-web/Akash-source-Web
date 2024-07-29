@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **The fear of long words is called Hippopotomonstrosesquippedaliophobia.**
 
-<img align="" alt="Coding" width="500" height = "200"
+<img align="" alt="Coding" width="250" height = "100"
 src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1oTDnw0B32cdT0J1fBmKWg.gif">
 
 <h3 align="left">Connect with me:</h3>
