@@ -1,6 +1,6 @@
 <h1 align="center">Hi There👋, I am AKASH KUNDU</h1>
 <h3 align="center">A passionate about the world of Artificial Intelligence.</h3>
-
+<img align="right" alt="Coding" width="300" src="[https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl](https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-source-web&label=Profile%20views&color=0e75b6&style=flat" alt="akash-source-web" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, GenAI**
