@@ -1,6 +1,7 @@
 <h1 align="center">Hi There👋, I am AKASH KUNDU</h1>
 <h3 align="center">A passionate about the world of Artificial Intelligence.</h3>
-<img align="right" alt="Coding" width="300" src="[https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl](https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-source-web&label=Profile%20views&color=0e75b6&style=flat" alt="akash-source-web" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, GenAI**
@@ -8,6 +9,9 @@
 - 💬 Ask me about **Python, SQL, PowerBI, ML, DL, Excel**
 
 - ⚡ Fun fact **The fear of long words is called Hippopotomonstrosesquippedaliophobia.**
+
+<img align="" alt="Coding" width="500" height = "200"
+src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1oTDnw0B32cdT0J1fBmKWg.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
